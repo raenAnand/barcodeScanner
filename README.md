@@ -1,1 +1,1 @@
-QR Code Generator And Scanner
+QR Code Generator And Scanner. 
